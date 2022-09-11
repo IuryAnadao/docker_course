@@ -1,2 +1,2 @@
 # docker_course
-Este repositório é um curso do qual participei
+Repositório do curso de docker
